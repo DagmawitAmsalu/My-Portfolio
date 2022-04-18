@@ -473,14 +473,14 @@ li{
  }
  .education .box-container .box img{
      position:absolute;
-     top:-1.5rem;
+     top:-1rem;
      left:-2.5rem;
-     height:5rem;
-     width: 5rem;
+     height:6rem;
+     width:6rem;
      border-radius: 50%;
      line-height:5rem;
      text-align:center;
-     font-size:2rem;
+     font-size:3rem;
      color:#fff;
      background:#9dacba;
      
